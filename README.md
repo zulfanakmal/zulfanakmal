@@ -1,30 +1,16 @@
 # Hi there, I'm Zulfan Sahila Akmalana 
 ## About me:
 - 🔭 I'm currently in high school
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: akmalanasahil@gmail.com
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
-
-## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
----
+#### 1. [SMP Daarul Quran](https://dashboard.daqu.sch.id) | Semarang `2019-2022`
+   - Member of Language Advisory Council (LAC)
+   - Computer Laboratory Assistant
+     
+ #### 2. [SMA Sains Wahid Hasyim](https://www.sman1kebumen.sch.id) | Yogyakarta `2022-now`
+   - Member of Student Council Multimedia (Multimediasains)
 
 ### Languages and Tools:
 
