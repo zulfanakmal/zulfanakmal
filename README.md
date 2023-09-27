@@ -35,17 +35,17 @@
 ### Connect with me:
 
 
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/)
-[![website](./img/youtube-light.svg)](https://www.youtube.com/)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/)
-[![website](./img/twitter-light.svg)](https://twitter.com/)
+[![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/)
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/upan.napu/)
-[![website](./img/instagram-light.svg)](https://instagram.com/upan.napu/)
+[![website](./img/instagram-light.svg)](https://instagram.com/upan.napu/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/upan.napu/#gh-dark-mode-only)
 
 
 
