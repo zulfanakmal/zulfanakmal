@@ -36,13 +36,18 @@
 
 
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/)
 &nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](https://twitter.com/)
+[![website](./img/twitter-light.svg)](https://twitter.com/)
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://instagram.com/upan.napu/)
+[![website](./img/instagram-light.svg)](https://instagram.com/upan.napu/)
 
 
 
 [webku]: https://github.com/zulfanakmal
+
