@@ -1,16 +1,17 @@
 # Hi there, I'm Zulfan Sahila Akmalana 
-## About me:
+## About me
 - 🔭 I'm currently in high school
 - 💬 Ask me about anything
 - 📫 How to reach me: akmalanasahil@gmail.com
-## Education:
+## Education
 
-#### 1. [SMP Daarul Quran](https://dashboard.daqu.sch.id) | Semarang `2019-2022`
+#### 1. [SMP Daarul Quran](https://www.instagram.com/daquungaran/) | Semarang `2019-2022`
    - Member of Language Advisory Council ([LAC](https://www.instagram.com/lac.daqu.jateng/))
    - Computer Laboratory Assistant
      
- #### 2. [SMA Sains Wahid Hasyim](https://www.sman1kebumen.sch.id) | Yogyakarta `2022-now`
+#### 2. [SMA Sains Wahid Hasyim](https://www.instagram.com/smasainsalquran/) | Yogyakarta `2022-now`
    - Member of Student Council Multimedia ([Multimediasains](https://www.instagram.com/mediasains))
+---
 
 ### Languages and Tools:
 
