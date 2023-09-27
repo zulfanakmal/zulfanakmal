@@ -1,4 +1,4 @@
-# Hi there, I'm Zulfan Sahila Akmalana 
+# Hi there 👋🏼 I'm Zulfan Sahila Akmalana 
 ## About me
 - 🔭 I'm currently in high school
 - 💬 Ask me about anything
