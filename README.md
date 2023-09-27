@@ -6,11 +6,11 @@
 ## Education:
 
 #### 1. [SMP Daarul Quran](https://dashboard.daqu.sch.id) | Semarang `2019-2022`
-   - Member of Language Advisory Council (LAC)
+   - Member of Language Advisory Council ([LAC](https://www.instagram.com/lac.daqu.jateng/))
    - Computer Laboratory Assistant
      
  #### 2. [SMA Sains Wahid Hasyim](https://www.sman1kebumen.sch.id) | Yogyakarta `2022-now`
-   - Member of Student Council Multimedia (Multimediasains)
+   - Member of Student Council Multimedia ([Multimediasains](https://www.instagram.com/mediasains))
 
 ### Languages and Tools:
 
@@ -23,8 +23,14 @@
 
 <br />
 <br />
+<p align="left">
+<a href="https://github.com/zulfanakmal">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zulfanakmal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 ---
+
 ### Connect with me:
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/#gh-light-mode-only)
