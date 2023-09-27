@@ -9,7 +9,7 @@
    - Member of Language Advisory Council ([LAC](https://www.instagram.com/lac.daqu.jateng/))
    - Computer Laboratory Assistant
      
-#### 2. [SMA Sains Wahid Hasyim](https://www.instagram.com/smasainsalquran/) | Yogyakarta `2022-now`
+#### 2. [SMA Sains Al-Quran](https://www.instagram.com/smasainsalquran/) | Yogyakarta `2022-now`
    - Member of Student Council Multimedia ([Multimediasains](https://www.instagram.com/mediasains))
 ---
 
