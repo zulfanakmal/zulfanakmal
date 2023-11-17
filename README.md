@@ -2,7 +2,7 @@
 ## About me
 - 🔭 I'm currently in high school
 - 💬 Ask me about anything
-- 📫 How to reach me: akmalanasahil@gmail.com
+- 📫 How to reach me: akmalanasahil@gmail.com, [Instagram](https://www.instagram.com/upan.napu), or [Telegram](https://t.me/upan_napu)
 ## Education
 
 #### 1. [SMP Daarul Quran](https://www.instagram.com/daquungaran/) | Semarang `2019-2022`
