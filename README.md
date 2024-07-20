@@ -2,7 +2,7 @@
 ## About me
 - 🔭 I'm currently in high school
 - 💬 Ask me about anything
-- 📫 How to reach me: akmalanasahil@gmail.com, [Instagram](https://www.instagram.com/upan.napu), or [Telegram](https://t.me/upan_napu)
+- 📫 How to reach me: akmalanasahil@gmail.com, [Instagram](https://www.instagram.com/mezlpn), or [Telegram](https://t.me/kuching_uchuu)
 ## Education
 
 #### 1. [SMP Daarul Quran](https://www.instagram.com/daquungaran/) | Semarang `2019-2022`
@@ -10,8 +10,8 @@
    - Computer Laboratory Assistant
      
 #### 2. [SMA Sains Al-Quran](https://www.instagram.com/smasainsalquran/) | Yogyakarta `2022-now`
-   - Member of Student Council Multimedia ([Multimediasains](https://www.instagram.com/mediasains))
-   - Leader of Techno Organization ([Techno](https://www.instagram.com/smas.tech))
+   - Member of Student Council Multimedia ([Mediasains](https://www.instagram.com/mediasains))
+   - Leader of Techno Organization ([Technosains](https://www.instagram.com/smas.tech))
 ---
 
 ### Languages and Tools:
