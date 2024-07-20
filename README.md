@@ -11,6 +11,7 @@
      
 #### 2. [SMA Sains Al-Quran](https://www.instagram.com/smasainsalquran/) | Yogyakarta `2022-now`
    - Member of Student Council Multimedia ([Multimediasains](https://www.instagram.com/mediasains))
+   - Leader of Techno Organization ([Techno](https://www.instagram.com/smas.tech))
 ---
 
 ### Languages and Tools:
