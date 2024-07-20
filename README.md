@@ -45,8 +45,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/upan.napu/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/upan.napu/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/mazlpn/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/mezlpn/#gh-dark-mode-only)
 
 
 
